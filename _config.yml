@@ -1,0 +1,14 @@
+url: https://soundclim.github.io/chorus/
+title:  AnuraSet
+description: A dataset for benchmarking Neotropical <br> anuran calls identification in passive acoustic monitoring
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/soundclim/anuraset
+  zip_url: https://zenodo.org/record/8342596
+  paper_url: https://www.nature.com/articles/s41597-023-02666-2
+  owner_name: The SoundClim Development Team
+  owner_url: https://github.com/orgs/soundclim/people
+  repository_name: AnuraSet
